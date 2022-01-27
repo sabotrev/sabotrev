@@ -1,4 +1,29 @@
-### Hi there 👋
+<div align='center'>
+  <h1>
+    Hey, I'm Trevor.
+  </h1>
+
+  <p>
+    A software engineer currently looking for a new role!
+  </p>
+  
+  <h4>You can find me here!</h4>
+  <p>
+    <a href="https://www.linkedin.com/in/trevor-sabo/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:sabotrev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>&nbsp;&nbsp;
+  </p>
+</div>
+
+<br/>
+
+<h4>Favorite Technologies</h4>
+<!-- TODO: update -->
+
+
 
 <!--
 **sabotrev/sabotrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
