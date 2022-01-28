@@ -21,7 +21,7 @@
   </p>
   <p>
     Or here 👉 &nbsp;
-    <a href="www.trevorsabo.com">
+    <a href="https://www.trevorsabo.com">
       trevorsabo.com
     </a>
   </p>
